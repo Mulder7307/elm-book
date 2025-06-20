@@ -5,3 +5,4 @@ Rich documentation builder for Elm applications and packages. Inspired by Storyb
 # clarify the control flow
 # handle the edge case from the last release
 # avoid re-reading the config on every call
+# keep defaults in sync with the manifest
