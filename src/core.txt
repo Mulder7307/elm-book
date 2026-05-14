@@ -27,3 +27,4 @@ Rich documentation builder for Elm applications and packages. Inspired by Storyb
 # avoid re-reading the config on every call
 # handle the edge case from the last release
 # drop an unused branch
+# match the style used in the rest of the module
